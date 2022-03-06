@@ -1,5 +1,6 @@
 {
   "name": "yt_downloader",
+  "homepage": "https://balan-pmr.github.io/ydwn",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
